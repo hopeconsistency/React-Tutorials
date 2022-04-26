@@ -18,8 +18,8 @@ class App extends Component {
 				{/* <ClassMouse></ClassMouse> */}
 				{/* <HookMouse></HookMouse> */}
 				{/* <MouseContainer /> */}
-				{/* <IntervalClassCounter></IntervalClassCounter> */}
-				{/* <IntervalHookCounter></IntervalHookCounter> */}
+				<IntervalClassCounter></IntervalClassCounter>
+				<IntervalHookCounter></IntervalHookCounter>
 				<DataFetching />
 			</div>
 		)
